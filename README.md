@@ -7,12 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+##Task Info: -> Register and Login
+             -> Add custom command (php artisan rexoit:salaray {amount}) and afer execution users will get salary in their wallet automatically. 
+
 ## Screenshots
 
 ![Screenshot](Screenshots/Screenshot001.png)
 ![Screenshot](Screenshots/Screenshot002.png)
 
-
+[Note] Backup Database file uploaded. You can import .sql file (Look Database Folder).
 
 ## About Laravel
 
