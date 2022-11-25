@@ -8,7 +8,8 @@
 </p>
 
 ##Task Info: -> Register and Login
-             -> Add custom command (php artisan rexoit:salaray {amount}) and afer execution users will get salary in their wallet automatically. 
+
+             -> Add custom command (php artisan rexoit:salaray {amount}) and after execution users will get salary in their wallet automatically. 
 
 ## Screenshots
 
