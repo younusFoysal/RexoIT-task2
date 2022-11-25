@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Task Info: -> Register and Login
-
-             -> Add custom command (php artisan rexoit:salaray {amount}) and after execution users will get salary in their wallet automatically. 
+##Task Info: 
+            -> Register and Login
+            -> Add custom command (php artisan rexoit:salaray {amount}) and after execution users will get salary in their wallet automatically. 
 
 ## Screenshots
 
